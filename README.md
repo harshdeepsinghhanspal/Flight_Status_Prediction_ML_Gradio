@@ -7,7 +7,7 @@ The model is deployed using Gradio, providing an interactive web interface for u
 
 ---
 
-##🚀 Features
+## 🚀 Features
 Machine Learning Model: Trained to classify flights as on-time or delayed based on input features.​
 
 Interactive Interface: User-friendly web application built with Gradio.​
