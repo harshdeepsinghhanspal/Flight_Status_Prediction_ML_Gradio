@@ -66,7 +66,10 @@ pip install numpy pandas scikit-learn gradio seaborn matplotlib
 
 Run the Gradio App:
 
+```
 python Flight_Status_Website_Gradio.py
+```
+
 After running the script, a local URL will be provided. Open it in your web browser to access the application.
 
 🖥️ Application Interface
